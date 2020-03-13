@@ -1,4 +1,10 @@
 package oop.inheritance;
 
-public class Brass {
+public class Brass extends Wind{
+    public void play(){
+
+    }
+    public void adjust(){
+
+    }
 }
